@@ -5,7 +5,6 @@ import time
 
 url = "https://lolesports.com"
 
-
 browser1_location = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe";
 
 while True:
